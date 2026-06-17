@@ -1,33 +1,23 @@
-# Hi there 👋 I'm Kannan
+# 💫 About Me:
 
-🚀 Full-Stack Developer | Software Engineer | AI Creative Executive
+🚀 Full-Stack Developer passionate about building scalable web applications and AI-powered products.
 
-I build modern web applications and AI-powered products using React, Node.js, and Python.
+💼 Freelance Full-Stack Developer with hands-on experience delivering SaaS and enterprise solutions.
 
-- 🔭 Currently building Full-Stack & AI products
-- 🌱 Learning System Design & Cloud Technologies
-- 💼 Freelance Full-Stack Developer since 2023
-- 🎨 Also experienced in UI/UX, Motion Graphics & Creative Design
-- ⚡ Fun fact: I use AI tools to speed up development and creativity
+🎨 Apart from coding, I enjoy UI/UX Design, Motion Graphics, Branding, and AI-assisted creative workflows.
 
----
+🌱 Currently exploring:
+- System Design
+- Cloud Technologies
+- Advanced React Patterns
+- AI Integrations
 
-## 💫 About Me
-
-I'm an early-career Software Engineer with hands-on experience building full-stack web applications using **React**, **Node.js**, and **Python**.
-
-I have worked with SaaS and enterprise clients as a freelance developer and enjoy building products from idea to deployment.
-
-Apart from coding, I love creating digital experiences through:
-
-✨ UI/UX Design  
-✨ Motion Graphics  
-✨ Branding & Visual Design  
-✨ AI-assisted Creative Work
+⚡ Fun Fact:
+I love combining creativity and technology to build products people enjoy using.
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack:
 
 ### Languages
 
@@ -39,7 +29,7 @@ Apart from coding, I love creating digital experiences through:
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind-css)
 
 ### Backend
@@ -49,57 +39,84 @@ Apart from coding, I love creating digital experiences through:
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
 
-### AI / Data Science
+### AI & Data Science
 
 ![NumPy](https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-black?style=for-the-badge&logo=scikit-learn)
 
-### Tools
+### Tools & Design
 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobephotoshop)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-black?style=for-the-badge&logo=adobeillustrator)
+![Adobe After Effects](https://img.shields.io/badge/AfterEffects-black?style=for-the-badge&logo=adobeaftereffects)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🧠 Digit Recognition Web App
 
-- React Frontend
-- Python ML Model
+- Interactive React frontend
+- Python Machine Learning backend
 - Node.js API Integration
-- Responsive UI
+- Real-time handwritten digit prediction
+
+---
 
 ### 🩺 Diabetes Prediction System
 
-- Python + Scikit Learn
+- Machine Learning using Python & Scikit-learn
 - Node.js REST API
-- React Dashboard
-- Real-time Predictions
+- Responsive React Dashboard
+- Real-time health predictions
 
 ---
 
-## 📊 GitHub Stats
+### 🎨 AI Creative Projects
 
-![](https://github-readme-stats.vercel.app/api?username=kannan637&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=kannan637&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kannan637&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-📧 Email: kit.25.21bad302@gmail.com
-
-🌍 Portfolio: https://kannan-portfolio.framer.website
-
-💻 GitHub: https://github.com/Kannan637
+- Brand Identity Systems
+- Motion Graphics
+- Social Media Campaign Designs
+- AI Generated Visual Concepts
 
 ---
 
-⭐ If you like my work, feel free to star my repositories!
+# 📈 Professional Experience
+
+💼 **Freelance Full-Stack Developer**  
+📅 Jan 2023 - Present
+
+- Built SaaS dashboards and web applications
+- Worked with global clients
+- Developed React + Node.js applications
+- Integrated REST APIs and MongoDB
+- Used AI coding assistants to accelerate delivery
+
+---
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=kannan637&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=kannan637&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kannan637&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email: **kit.25.21bad302@gmail.com**
+
+🌍 Portfolio: **https://kannan-portfolio.framer.website**
+
+💻 GitHub: **https://github.com/Kannan637**
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=kannan637&icon=0&color=0)](https://visitcount.itsvg.in)
